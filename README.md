@@ -19,6 +19,9 @@ practicalwebdevsp21.slack.com
 - [Video: Git Tutorial 1](https://www.youtube.com/watch?v=HVsySz-h9r4&t=443s&ab_channel=CoreySchafer)
 - [Video: Git Tutorial 2](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia)
 
+**Supplemental**
+- [Git Textbook](https://git-scm.com/book/en/v2)
+
 ## Class 2 (2/11)
 - Introduce assignment 1 
 - Go over requirements/expectations for assignment submission in general
