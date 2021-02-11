@@ -35,3 +35,12 @@ practicalwebdevsp21.slack.com
 - [Assignment #2](https://docs.google.com/document/d/1e4i4AOl5PmCJ9xzR-94gEegwvvwRw6eqAe0VZHOz5to/edit?usp=sharing)
 - [MDN: Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
 - [MDN: Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+- JS and intro to the DOM
+
+## Class 4 (2/25)
+- Assignment 1 and 2 are due
+- Finish up the DOM
+- Release assignment 3
+
+## Class 5
+- React
