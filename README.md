@@ -23,7 +23,7 @@ practicalwebdevsp21.slack.com
 - [Git Textbook](https://git-scm.com/book/en/v2)
 
 ## Class 2 (2/11)
-- **[Assignment #1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
+- [Assignment #1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
 - [Linking pull requests to issues](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
 - [Review: Git Slides](https://drive.google.com/file/d/1L_XvhD7U_n3Fttp8Q_v-M8B6v3IlTjv4/view)
 
@@ -33,6 +33,6 @@ practicalwebdevsp21.slack.com
 - [Eloquent Javascript Chapter 5: Higher Order Function](http://eloquentjavascript.net/05_higher_order.html)
 
 ## Class 3 (2/18)
-- **[Assignment #2](https://docs.google.com/document/d/1e4i4AOl5PmCJ9xzR-94gEegwvvwRw6eqAe0VZHOz5to/edit?usp=sharing)
+- [Assignment #2](https://docs.google.com/document/d/1e4i4AOl5PmCJ9xzR-94gEegwvvwRw6eqAe0VZHOz5to/edit?usp=sharing)
 - [MDN: Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
 - [MDN: Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
