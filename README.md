@@ -25,7 +25,6 @@ practicalwebdevsp21.slack.com
 ## Class 2 (2/11)
 - [Assignment #1](https://docs.google.com/document/d/1Pf86Btnzj55v0ym_ugkQYRuqnk77RcjMK0vOW5STZaY/edit?usp=sharing)
 - [Linking pull requests to issues](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
-- [Review: Git Slides](https://drive.google.com/file/d/1L_XvhD7U_n3Fttp8Q_v-M8B6v3IlTjv4/view)
 
 **Required: read for next class**
 - [Eloquent Javascript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
