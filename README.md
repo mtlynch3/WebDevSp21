@@ -29,19 +29,19 @@ practicalwebdevsp21.slack.com
 **Required: read for next class**
 - [Eloquent Javascript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
 - [Eloquent Javascript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
-- [Eloquent Javascript Chapter 5: Higher Order Function](http://eloquentjavascript.net/05_higher_order.html)
+- [Eloquent Javascript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
 ## Class 3 (2/18)
 - [Assignment #2](https://docs.google.com/document/d/1e4i4AOl5PmCJ9xzR-94gEegwvvwRw6eqAe0VZHOz5to/edit?usp=sharing)
 - [MDN: Array.prototype.forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 - JS and [intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
-**Required materials: watch ALL of these videos!**
+**Required materials:**
 - [Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)
 - [Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
 - [DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
 
-*Suplemental materials*
+*Suplemental materials:*
 - [Eloquent Javascript Chapter 13: Javascript and the Browser](http://eloquentjavascript.net/13_browser.html)
 
 - [Eloquent Javascript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
