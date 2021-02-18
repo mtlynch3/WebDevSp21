@@ -33,9 +33,21 @@ practicalwebdevsp21.slack.com
 
 ## Class 3 (2/18)
 - [Assignment #2](https://docs.google.com/document/d/1e4i4AOl5PmCJ9xzR-94gEegwvvwRw6eqAe0VZHOz5to/edit?usp=sharing)
-- [MDN: Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
-- [MDN: Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-- JS and intro to the DOM
+- [MDN: Array.prototype.forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+- JS and [intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
+**Required materials: watch ALL of these videos!**
+- [Intro to the DOM](https://www.youtube.com/watch?v=l-0nPnSvbX8)
+- [Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
+- [DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
+
+*Suplemental materials*
+- [Eloquent Javascript Chapter 13: Javascript and the Browser](http://eloquentjavascript.net/13_browser.html)
+
+- [Eloquent Javascript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
+
+- [Eloquent Javascript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
+
 
 ## Class 4 (2/25)
 - Assignment 1 and 2 are due
