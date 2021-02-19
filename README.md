@@ -41,11 +41,9 @@ practicalwebdevsp21.slack.com
 - [Traversing the DOM](https://www.youtube.com/watch?v=8LWQNnVAMh4)
 - [DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
 
-*Suplemental materials:*
+*Supplemental materials:*
 - [Eloquent Javascript Chapter 13: Javascript and the Browser](http://eloquentjavascript.net/13_browser.html)
-
 - [Eloquent Javascript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
-
 - [Eloquent Javascript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 
 
