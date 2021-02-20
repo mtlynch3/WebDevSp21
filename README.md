@@ -1,5 +1,5 @@
 # WebDevSp21
-Course page for CSCI39548 - Practical Web Develeopment
+Course page for CSCI39548 - Practical Web Development
 
 **Instructor:**
  Melissa Lynch
@@ -27,9 +27,9 @@ practicalwebdevsp21.slack.com
 - [Linking pull requests to issues](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
 
 **Required: read for next class**
-- [Eloquent Javascript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
-- [Eloquent Javascript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
-- [Eloquent Javascript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
+- [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
+- [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
+- [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
 ## Class 3 (2/18)
 - [Assignment #2](https://docs.google.com/document/d/1e4i4AOl5PmCJ9xzR-94gEegwvvwRw6eqAe0VZHOz5to/edit?usp=sharing)
@@ -42,9 +42,9 @@ practicalwebdevsp21.slack.com
 - [DOM Events](https://www.youtube.com/watch?v=QE1YQnhntgw)
 
 *Supplemental materials:*
-- [Eloquent Javascript Chapter 13: Javascript and the Browser](http://eloquentjavascript.net/13_browser.html)
-- [Eloquent Javascript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
-- [Eloquent Javascript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
+- [Eloquent JavaScript Chapter 13: JavaScript and the Browser](http://eloquentjavascript.net/13_browser.html)
+- [Eloquent JavaScript Chapter 14: The Document Object Model](http://eloquentjavascript.net/14_dom.html)
+- [Eloquent JavaScript Chapter 15: Handling Events](http://eloquentjavascript.net/15_event.html)
 
 
 ## Class 4 (2/25)
