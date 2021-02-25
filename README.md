@@ -59,9 +59,9 @@ practicalwebdevsp21.slack.com
 - React
 - Release assignment 4
 
-## Class 6
+## Class 6 (3/11)
 - Continue React
-- Assignments 3 is due
+- Assignment 3 is due
 
 ## Class 7
 - Promises, async/await, AJAX
