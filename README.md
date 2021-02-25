@@ -50,7 +50,7 @@ practicalwebdevsp21.slack.com
 ## Class 4 (2/25)
 - Assignment 1 and 2 are due
 - Finish up the DOM
-- Release assignment 3
+- [Assignment #3](https://docs.google.com/document/d/11xFpi2Eue2wwwiUHoHBaPWB2gmczogxZQhS67YKks9o/edit?usp=sharing)
 
 ## Class 5 (3/4)
 - React
