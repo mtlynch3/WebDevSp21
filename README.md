@@ -52,6 +52,9 @@ practicalwebdevsp21.slack.com
 - Finish up the DOM
 - [Assignment #3](https://docs.google.com/document/d/11xFpi2Eue2wwwiUHoHBaPWB2gmczogxZQhS67YKks9o/edit?usp=sharing)
 
+**For next class: required videos (watch all in the series)**
+- [Introduction to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
+
 ## Class 5 (3/4)
 - React
 - Release assignment 4
