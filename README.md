@@ -54,3 +54,51 @@ practicalwebdevsp21.slack.com
 
 ## Class 5
 - React
+- Release assignment 4
+
+## Class 5
+- Continue React
+- Assignments 3 is due
+
+# Class 6
+- Promises, async/await, AJAX
+- Assignment 4 is due
+
+# Class 7
+- Making API requests
+- Realease assignments 5 & 6
+
+# Class 8
+- React Router
+- Release assignment 7
+
+# Class 9
+- React-Redux
+- State management
+
+# Class 10
+- ExpressJS
+- RESTful APIs
+
+# Class 10
+- PostgreSQL
+- Sequelize
+
+# Class 11
+- Work on projects
+
+# Class 12
+- Work on projects
+
+# Class 13
+- Work on projects 
+
+# Class 14
+- Work on projects 
+
+# Class 15
+- Work on projects 
+
+# Class 16
+- Present final project
+
