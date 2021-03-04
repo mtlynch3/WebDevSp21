@@ -56,19 +56,23 @@ practicalwebdevsp21.slack.com
 - [Introduction to React](https://www.youtube.com/watch?v=FRjlF74_EZk&list=PLruo2gSoqleiMVEIqmvZkIpFEN_TPt0hR)
 
 ## Class 5 (3/4)
-- React
-- Release assignment 4
+- React introduction
+- [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
+
+*Extra pratice*
+- [React practial tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 ## Class 6 (3/11)
 - Continue React
 - Assignment 3 is due
+- Assignment 4 released
 
 ## Class 7
 - Promises, async/await, AJAX
-- Assignment 4 is due
 
 ## Class 8
 - Making API requests
+- Assignment 4 is due
 - Realease assignments 5 & 6
 
 ## Class 9
