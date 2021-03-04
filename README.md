@@ -61,6 +61,7 @@ practicalwebdevsp21.slack.com
 
 *Extra pratice*
 - [React practial tutorial: Tic Tac Toe](https://reactjs.org/tutorial/tutorial.html)
+- [Video: React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
 
 ## Class 6 (3/11)
 - Continue React
