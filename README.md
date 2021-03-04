@@ -60,7 +60,7 @@ practicalwebdevsp21.slack.com
 - [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
 
 *Extra pratice*
-- [React practial tutorial](https://reactjs.org/tutorial/tutorial.html)
+- [React practial tutorial: Tic Tac Toe](https://reactjs.org/tutorial/tutorial.html)
 
 ## Class 6 (3/11)
 - Continue React
