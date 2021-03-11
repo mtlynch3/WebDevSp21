@@ -64,16 +64,17 @@ practicalwebdevsp21.slack.com
 - [Video: React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia)
 
 ## Class 6 (3/11)
-- Continue React
 - Assignment 3 is due
+- Continue [React Docs](https://reactjs.org/docs/hello-world.html)
+- Demo
 - [Assignment 4](https://docs.google.com/document/d/1XCeysbpalCy-uIEKkANtwTsJuh1_pWp9GkqQ02c2FeU/edit?usp=sharing)
 
 ## Class 7
 - Promises, async/await, AJAX
 
 ## Class 8
-- Making API requests
 - Assignment 4 is due
+- Making API requests
 - Realease assignments 5 & 6
 
 ## Class 9
