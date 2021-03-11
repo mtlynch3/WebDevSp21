@@ -66,7 +66,7 @@ practicalwebdevsp21.slack.com
 ## Class 6 (3/11)
 - Continue React
 - Assignment 3 is due
-- Assignment 4 released
+- [Assignment 4](https://docs.google.com/document/d/1XCeysbpalCy-uIEKkANtwTsJuh1_pWp9GkqQ02c2FeU/edit?usp=sharing)
 
 ## Class 7
 - Promises, async/await, AJAX
@@ -83,6 +83,7 @@ practicalwebdevsp21.slack.com
 ## Class 10
 - React-Redux
 - State management
+- Release projects 1 and 2
 
 ## Class 11
 - ExpressJS
