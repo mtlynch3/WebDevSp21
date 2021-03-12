@@ -66,8 +66,8 @@ practicalwebdevsp21.slack.com
 ## Class 6 (3/11)
 - Assignment 3 is due
 - Continue [React Docs](https://reactjs.org/docs/hello-world.html)
-- Demo
 - [Assignment 4](https://docs.google.com/document/d/1XCeysbpalCy-uIEKkANtwTsJuh1_pWp9GkqQ02c2FeU/edit?usp=sharing)
+- [Starter code for assignment 4](https://github.com/mtlynch3/reactGrid)
 
 ## Class 7
 - Promises, async/await, AJAX
