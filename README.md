@@ -69,12 +69,20 @@ practicalwebdevsp21.slack.com
 - [Assignment 4](https://docs.google.com/document/d/1XCeysbpalCy-uIEKkANtwTsJuh1_pWp9GkqQ02c2FeU/edit?usp=sharing)
 - [Starter code for assignment 4](https://github.com/mtlynch3/reactGrid)
 
-*Supplemental Materials*
+*Supplemental materials:*
 - [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
 - [React tutorial: cryptocurrency](https://sabe.io/tutorials/getting-started-with-react)
 
 ## Class 7
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
+
+*Supplemental materials:*
+- **[Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)**
+- [In-depth article on async/await](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
+- [Video: async/await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
+- [MDN: Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [MDN: Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [Axios tutorial](http://zetcode.com/javascript/axios/)
 
 ## Class 8
 - Assignment 4 is due
