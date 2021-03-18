@@ -69,6 +69,10 @@ practicalwebdevsp21.slack.com
 - [Assignment 4](https://docs.google.com/document/d/1XCeysbpalCy-uIEKkANtwTsJuh1_pWp9GkqQ02c2FeU/edit?usp=sharing)
 - [Starter code for assignment 4](https://github.com/mtlynch3/reactGrid)
 
+*Supplemental Materials*
+- [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
+- [React tutorial: cryptocurrency](https://sabe.io/tutorials/getting-started-with-react)
+
 ## Class 7
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
 
