@@ -70,7 +70,7 @@ practicalwebdevsp21.slack.com
 - [Starter code for assignment 4](https://github.com/mtlynch3/reactGrid)
 
 ## Class 7
-- Promises, async/await, AJAX
+- [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
 
 ## Class 8
 - Assignment 4 is due
