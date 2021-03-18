@@ -80,6 +80,7 @@ practicalwebdevsp21.slack.com
 - **[Video: Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s&ab_channel=TraversyMedia)**
 - [In-depth article on async/await](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
 - [Video: async/await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
+- [Eloquent JavaScript: Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
 - [MDN: Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [MDN: Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [Axios tutorial](http://zetcode.com/javascript/axios/)
