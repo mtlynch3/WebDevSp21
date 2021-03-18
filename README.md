@@ -73,7 +73,7 @@ practicalwebdevsp21.slack.com
 - [React styling conventions](https://github.com/airbnb/javascript/tree/master/react)
 - [React tutorial: cryptocurrency](https://sabe.io/tutorials/getting-started-with-react)
 
-## Class 7
+## Class 7 (3/18)
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
 
 *Supplemental materials:*
@@ -84,37 +84,32 @@ practicalwebdevsp21.slack.com
 - [MDN: Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [Axios tutorial](http://zetcode.com/javascript/axios/)
 
-## Class 8
+## Class 8 (3/25)
 - Assignment 4 is due
 - Making API requests
-- Realease assignments 5 & 6
+- Release assignments 5 & 6
 
-## Class 9
+## Class 9 (4/8)
 - React Router
 - Release assignment 7
 
-## Class 10
+## Class 10 (4/15)
 - React-Redux
 - State management
 - Release projects 1 and 2
 
-## Class 11
+## Class 11 (4/22)
 - ExpressJS
 - RESTful APIs
 
-## Class 12
+## Class 12 (4/29)
 - PostgreSQL
 - Sequelize
 
-## Class 13
+## Class 13 (5/6)
 - Work on projects
 
-## Class 14
+## Class 14 (5/13)
 - Work on projects
 
-## Class 15
-- Work on projects 
-
-## Class 16
-- Present final project
 
