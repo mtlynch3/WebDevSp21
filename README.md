@@ -88,20 +88,23 @@ practicalwebdevsp21.slack.com
 ## Class 8 (3/25)
 - Assignment 4 is due
 - Making API requests
-- Release assignments 5 & 6
+- Release assignments 5 & 6 
+
+## SPRING BREAK :)
 
 ## Class 9 (4/8)
 - React Router
 - Release assignment 7
+- Release projects 1 and 2
+- Intro to Redux
 
 ## Class 10 (4/15)
-- React-Redux
-- State management
-- Release projects 1 and 2
+- Assignments 5,6,7 due
+- State management with React-Redux
 
 ## Class 11 (4/22)
 - ExpressJS
-- RESTful APIs
+- Creating RESTful APIs
 
 ## Class 12 (4/29)
 - PostgreSQL
@@ -111,6 +114,8 @@ practicalwebdevsp21.slack.com
 - Work on projects
 
 ## Class 14 (5/13)
+- Exit examination (1 hr)
 - Work on projects
+- Projects 1 and 2 are due on Sunday, 5/23 at 11:59 PM
 
 
