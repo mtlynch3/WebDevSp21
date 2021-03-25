@@ -87,7 +87,7 @@ practicalwebdevsp21.slack.com
 
 ## Class 8 (3/25)
 - Assignment 4 is due
-- Demo: making API requests and displaying the response data using React
+- [Demo: making API requests and displaying the response data using React](https://gist.github.com/mtlynch3/82420435b001e70db6f0c64df72e54ff)
 - [Assignment 5](https://docs.google.com/document/d/1xEU3tsKVKYQ4Xv9ncYeRXVLwY9pg2hDKOiJ_NPqbkf0/edit?usp=sharing)
 - [Assignment 6](https://docs.google.com/document/d/1bjXuk0TnSevHghRr6aIkwreF1HDrKDv4W5_PY_P2IVY/edit?usp=sharing)
 
