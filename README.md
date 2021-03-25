@@ -87,8 +87,14 @@ practicalwebdevsp21.slack.com
 
 ## Class 8 (3/25)
 - Assignment 4 is due
-- Making API requests
-- Release assignments 5 & 6 
+- Demo: making API requests and displaying the response data using React
+- [Assignment 5](https://docs.google.com/document/d/1xEU3tsKVKYQ4Xv9ncYeRXVLwY9pg2hDKOiJ_NPqbkf0/edit?usp=sharing)
+- [Assignment 6](https://docs.google.com/document/d/1bjXuk0TnSevHghRr6aIkwreF1HDrKDv4W5_PY_P2IVY/edit?usp=sharing)
+
+*Supplemental materials:*
+- [JSON Viewer Chrome Extension](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
+- [Video: Axios Crash Course](https://www.youtube.com/watch?v=6LyagkoRWYA)
+- [Video: HTTP Crash Course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
 ## SPRING BREAK :)
 
