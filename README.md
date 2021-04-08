@@ -109,13 +109,13 @@ practicalwebdevsp21.slack.com
 - [Coding example](https://learn.co/lessons/redux-thunk-readme) using thunks
 
 ## Class 10 (4/15)
-- Assignments 5, 6, and 7 are due
 - Managing state in React applications with Redux
 - Thunk middleware ([slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view))
 - Release projects ([CRUD apps](https://medium.com/@thorntonbrenden/whats-a-crud-app-e5a29cce03b5))
 - Introduce project starter code (will serve as a Redux demo as well)
 
 ## Class 11 (4/22)
+- Assignments 5, 6, and 7 are due
 - ExpressJS
 - Creating RESTful APIs
 - Demo using project starter code
