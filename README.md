@@ -100,7 +100,7 @@ practicalwebdevsp21.slack.com
 
 ## Class 9 (4/8)
 - React Router ([slides](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view))
-- Release assignment 7
+- [Assignment 7](https://gist.github.com/mtlynch3/4c86b925d4493355a5f2f6c41d2a3aa6)
 - Intro to Redux ([slides](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view))
 
 *Supplemental materials:*
