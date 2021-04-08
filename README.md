@@ -101,7 +101,6 @@ practicalwebdevsp21.slack.com
 ## Class 9 (4/8)
 - React Router ([slides](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view))
 - [Assignment 7](https://gist.github.com/mtlynch3/4c86b925d4493355a5f2f6c41d2a3aa6)
-- Intro to Redux ([slides](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view))
 
 *Supplemental materials:*
 - Redux: comprehensive tutorial by Dan Abramov, the creator of Redux ([Part 1](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)) ([Part 2](https://egghead.io/courses/building-react-applications-with-idiomatic-redux))
@@ -110,6 +109,7 @@ practicalwebdevsp21.slack.com
 
 ## Class 10 (4/15)
 - Managing state in React applications with Redux
+- Intro to Redux ([slides](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view))
 - Thunk middleware ([slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view))
 - Release projects ([CRUD apps](https://medium.com/@thorntonbrenden/whats-a-crud-app-e5a29cce03b5))
 - Introduce project starter code (will serve as a Redux demo as well)
