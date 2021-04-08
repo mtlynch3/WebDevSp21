@@ -99,22 +99,31 @@ practicalwebdevsp21.slack.com
 ## SPRING BREAK :)
 
 ## Class 9 (4/8)
-- React Router
+- React Router ([slides](https://drive.google.com/file/d/1X7DB3LbAPPPEklKE-359GVKKFFsDGOg3/view))
 - Release assignment 7
-- Release projects 1 and 2
-- Intro to Redux
+- Intro to Redux ([slides](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view))
+
+*Supplemental materials:*
+- Redux: comprehensive tutorial by Dan Abramov, the creator of Redux ([Part 1](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)) ([Part 2](https://egghead.io/courses/building-react-applications-with-idiomatic-redux))
+- [Article](https://medium.com/fullstack-academy/thunks-in-redux-the-basics-85e538a3fe60) on thunks in Redux
+- [Coding example](https://learn.co/lessons/redux-thunk-readme) using thunks
 
 ## Class 10 (4/15)
-- Assignments 5,6,7 due
-- State management with React-Redux
+- Assignments 5, 6, and 7 are due
+- Managing state in React applications with Redux
+- Thunk middleware ([slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view))
+- Release projects ([CRUD apps](https://medium.com/@thorntonbrenden/whats-a-crud-app-e5a29cce03b5))
+- Introduce project starter code (will serve as a Redux demo as well)
 
 ## Class 11 (4/22)
 - ExpressJS
 - Creating RESTful APIs
+- Demo using project starter code
 
 ## Class 12 (4/29)
 - PostgreSQL
 - Sequelize
+- Demo using project starter code
 
 ## Class 13 (5/6)
 - Work on projects
@@ -122,6 +131,6 @@ practicalwebdevsp21.slack.com
 ## Class 14 (5/13)
 - Exit examination (1 hr)
 - Work on projects
-- Projects 1 and 2 are due on Sunday, 5/23 at 11:59 PM
+- Projects are due on Sunday, 5/23 at 11:59 PM
 
 
