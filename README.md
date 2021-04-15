@@ -111,8 +111,10 @@ practicalwebdevsp21.slack.com
 - Managing state in React applications with Redux
 - Intro to Redux ([slides](https://drive.google.com/file/d/1T4kvykmcM2MvKvnExjopJv2i4cOjZw1O/view))
 - Thunk middleware ([slides](https://drive.google.com/file/d/1CWDPOigoVDwZDc4iLEpJMJ7MN42cT3qI/view))
-- Release projects ([CRUD apps](https://medium.com/@thorntonbrenden/whats-a-crud-app-e5a29cce03b5))
-- Introduce project starter code (will serve as a Redux demo as well)
+- Redux demo
+
+## Final Project (Fullstack [CRUD](https://medium.com/@thorntonbrenden/whats-a-crud-app-e5a29cce03b5) App)
+- [Platform For Managing Students and Campuses](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 
 ## Class 11 (4/22)
 - Assignments 5, 6, and 7 are due
