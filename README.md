@@ -117,7 +117,6 @@ practicalwebdevsp21.slack.com
 - [Platform For Managing Students and Campuses](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 
 ## Class 11 (4/22)
-- Assignments 5, 6, and 7 are due
 - ExpressJS
 - Creating RESTful APIs
 - Demo using project starter code
