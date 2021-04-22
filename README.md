@@ -117,7 +117,7 @@ practicalwebdevsp21.slack.com
 - [Platform For Managing Students and Campuses](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
 - [Server starter code](https://github.com/mtlynch3/starter-server)
 - Client starter code
-- Redux dummy data example
+- [Redux dummy data example](https://gist.github.com/mtlynch3/565749cdcc3240ce4c10d4e897ed83a8)
 
 ## Class 11 (4/22)
 - RESTful APIs ([slides](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view))
