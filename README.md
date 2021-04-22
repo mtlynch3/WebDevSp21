@@ -115,11 +115,21 @@ practicalwebdevsp21.slack.com
 
 ## Final Project (Fullstack [CRUD](https://medium.com/@thorntonbrenden/whats-a-crud-app-e5a29cce03b5) App)
 - [Platform For Managing Students and Campuses](https://docs.google.com/document/d/1ioCrS7uzKSkH8d-L04xMeHsq5GbkiAfwPNyLUoqrb04/edit?usp=sharing)
+- [Server starter code](https://github.com/mtlynch3/starter-server)
+- Client starter code
+- Redux dummy data example
 
 ## Class 11 (4/22)
-- ExpressJS
-- Creating RESTful APIs
+- RESTful APIs ([slides](https://drive.google.com/file/d/1ijx6JmRUiiDI9AlPyZewh18GPgim4GJ1/view))
+- ExpressJS ([slides](https://drive.google.com/file/d/16awMgO3cPkabEpa08NZCaOjFH7J9E1Yg/view))
 - Demo using project starter code
+
+**Required (watch for next class):**
+- [Relational database concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
+- [Intro to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
+
+*Supplemental materials:*
+- [Video tutorial: Setting up a simple Node app with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
 
 ## Class 12 (4/29)
 - PostgreSQL
