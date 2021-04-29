@@ -131,15 +131,16 @@ practicalwebdevsp21.slack.com
 - [Video tutorial: Setting up a simple Node app with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
 
 ## Class 12 (4/29)
-- PostgreSQL
-- Sequelize
+- [psql commands](https://www.postgresqltutorial.com/psql-commands/)
+- [Sequelize documentation](https://sequelize.org/master/)
 - Demo using project starter code
 
 ## Class 13 (5/6)
 - Work on projects
+- Go over expectations for exit assessment
 
 ## Class 14 (5/13)
-- Exit examination (1 hr)
+- Exit assessment (1 hr)
 - Work on projects
 - Projects are due on Sunday, 5/23 at 11:59 PM
 
