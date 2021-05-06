@@ -1,4 +1,3 @@
-# WebDevSp21
 ## Course page for CSCI39548 - Practical Web Development
 
 **[Syllabus](https://github.com/mtlynch3/WebDevSp21/blob/main/webdev_syllabus_REVISED415.pdf)**
