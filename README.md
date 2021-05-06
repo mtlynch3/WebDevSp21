@@ -1,4 +1,5 @@
-## Course page for CSCI39548 - Practical Web Development
+## CSCI39548 - Practical Web Development
+### Spring 2021
 
 **[Syllabus](https://github.com/mtlynch3/WebDevSp21/blob/main/webdev_syllabus_REVISED415.pdf)**
 
