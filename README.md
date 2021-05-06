@@ -1,5 +1,7 @@
 # WebDevSp21
-Course page for CSCI39548 - Practical Web Development
+## Course page for CSCI39548 - Practical Web Development
+
+**[Syllabus](https://github.com/mtlynch3/WebDevSp21/blob/main/webdev_syllabus_REVISED415.pdf)**
 
 **Instructor:**
  Melissa Lynch
@@ -140,7 +142,7 @@ practicalwebdevsp21.slack.com
 - Go over expectations for exit assessment
 
 ## Class 14 (5/13)
-- Exit assessment (1 hr)
+- Exit assessment on Blackboard (5:45 PM - 7:00 PM)
 - Work on projects
 - Projects are due on Sunday, 5/23 at 11:59 PM
 
